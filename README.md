@@ -11,7 +11,7 @@ This Django project provides an API to analyze health data and generate personal
 
 - Python 3.x
 - Django 3.x or later
-- OpenAI API key use my key sk-6aZKaKwSk4mp9QTYB5wAusAE1eDP4sFs0i7Sb2P-ZDT3BlbkFJMEG2pkzPN0XOjVP78oQg5lVTk5GbCBiDiPOyGxVaMA
+- OpenAI API key use my key i have mentioned it in views 
 
 ### Installation
 
