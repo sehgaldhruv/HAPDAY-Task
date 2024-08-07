@@ -5,7 +5,7 @@ from pathlib import Path
 BASE_DIR = Path(__file__).resolve().parent.parent
 
 SECRET_KEY = 'SCPO2PzX6TYvX1MM1_Q_mUcnPJBD24zWlphPqF77pPw'
-
+OPENAI_API_KEY = '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'
 
 DEBUG = True
 
